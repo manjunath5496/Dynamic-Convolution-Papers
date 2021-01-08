@@ -22,5 +22,14 @@ Pay Less Attention with Lightweight and Dynamic Convolutions</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Dynamic-Convolution-Papers/blob/master/dc(9).pdf" style="text-decoration:none;">Dynamic Filter Networks</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Dynamic-Convolution-Papers/blob/master/dc(10).pdf" style="text-decoration:none;">Context Modulated Dynamic Networks for Actor and Action Video Segmentation with Language Queries</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Dynamic-Convolution-Papers/blob/master/dc(10).pdf" style="text-decoration:none;">Context Modulated Dynamic Networks for Actor and Action Video Segmentation with Language Queries</a></li>   
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Dynamic-Convolution-Papers/blob/master/dc(11).pdf" style="text-decoration:none;">Fast Dynamic Convolutional Neural Networks for Visual Tracking</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Dynamic-Convolution-Papers/blob/master/dc(12).pdf" style="text-decoration:none;">ConvBERT: Improving BERT with Span-based Dynamic Convolution</a></li>   
+ 
+ 
+ 
+ 
 </ul>
